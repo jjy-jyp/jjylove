@@ -1,2 +1,5 @@
 streamlit
 snownlp
+pandas
+wordcloud
+matplotlib
